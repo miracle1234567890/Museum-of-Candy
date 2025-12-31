@@ -6,20 +6,18 @@ responsive behavior, and interactive UI effects using modern front-end tools.
 
 ---
 
-## 🚀 Live Demo
-(Add GitHub Pages link here)
+## Live Demo
+https://github.com/miracle1234567890/Museum-of-Candy/
 
----
 
-## 📌 Project Overview
+## Project Overview
 The **Museum of Candy** project is a front-end redesign concept built to practice
 HTML structure, Bootstrap layout, custom CSS styling, and basic JavaScript
 interactivity. It showcases a colorful theme, clean typography, and a responsive
 layout suitable for modern web experiences.
 
----
 
-## ✨ Features
+## Features
 - Responsive navigation bar with scroll-based background change
 - Mobile-friendly layout using Bootstrap Grid system
 - Clean and well-structured HTML5 markup
@@ -27,9 +25,8 @@ layout suitable for modern web experiences.
 - Smooth UI behavior using JavaScript and jQuery
 - Optimized layout for both desktop and mobile screens
 
----
 
-## 🎨 Styling & Design Highlights
+## Styling & Design Highlights
 - Soft pastel background for a playful and modern feel
 - Custom typography using **Google Fonts (Nunito)**
 - Lightweight font weights for a clean UI
@@ -37,37 +34,19 @@ layout suitable for modern web experiences.
 - Responsive typography using media queries
 - Consistent color theme across headings, text, and navigation
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** – Page structure and content
 - **CSS3** – Custom styling and responsive design
 - **Bootstrap 4** – Grid system and responsive components
 - **JavaScript (jQuery)** – Scroll-based UI interaction
 - **Google Fonts** – Typography enhancement
 
----
 
-## 🧠 What I Learned
+## What I Learned
 - Structuring large HTML layouts efficiently
 - Using Bootstrap for responsive web design
 - Writing clean and reusable CSS
 - Implementing scroll-based UI effects
 - Combining external libraries with custom styles
 - Improving visual hierarchy and spacing
-
----
-
-## 📂 Project Structure
-```text
-museum-of-candy/
-│
-├── index.html
-├── app.css
-├── imgs/
-│   ├── hand2.png
-│   ├── milk.png
-│   ├── gumball.png
-│   ├── sprinkles.png
-│   └── lolli_icon.png
-└── README.md
