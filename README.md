@@ -4,11 +4,6 @@ A responsive and visually engaging front-end website inspired by a fictional
 **Museum of Candy**. This project focuses on layout design, typography,
 responsive behavior, and interactive UI effects using modern front-end tools.
 
----
-
-## Live Demo
-https://github.com/miracle1234567890/Museum-of-Candy/
-
 
 ## Project Overview
 The **Museum of Candy** project is a front-end redesign concept built to practice
